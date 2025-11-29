@@ -1,13 +1,13 @@
 # list_tool
 
-A simple Python program for performing basic list operations.
+Проста Python-програма для виконання базових операцій зі списками.
 
-## Features
-- Add elements to a list
-- Remove elements from a list
-- Search for elements
-- Display the current list
+## Можливості
+- Додавання елементів до списку
+- Видалення елементів зі списку
+- Пошук елементів
+- Відображення поточного списку
 
-## How to Run
-1. Make sure you have Python installed.
-2. Run the script:
+## Як запустити
+1. Переконайтесь, що у вас встановлено Python.
+2. Запустіть програму командою:
